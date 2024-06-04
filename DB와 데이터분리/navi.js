@@ -1,4 +1,4 @@
-import hd_yys from "./navi.json";
+import hd_yys from "./navi.json"; //const hd_yys = {} 와 같은 의미
 
 
 window.onload = function () {
